@@ -1,0 +1,373 @@
+Occupation,M,F
+Total Population ,369523,419136
+Pop aged 15 & over ,265687,318642
+I-XXVII Occupied ,236994,126857
+XXVIII Retired & unocc. ,28693,191785
+Employers ,3111,652
+Managers ,8454,2404
+Operatives ,204651,117026
+Working on own account ,8182,2839
+Out of Work ,12596,3936
+I. FISHERMEN ,20,0
+"II. AGRICULTURAL, ETC OCCUPATIONS ",1782,119
+1. Agricultural and horticultural occupations ,1731,118
+    Farmers ,177,15
+"    Market gardeners, etc. and foremen ",109,11
+    Other gardeners ,959,9
+    Other agricultural workers ,486,83
+2. Occupations ancillary to agriculture ,42,1
+"    Agricultural machine owners, drivers ",36,0
+3. Foresters and woodmen ,9,0
+III. MINING & QUARRYING OCCUPATIONS ,811,3
+1. In coal mines ,783,2
+    Subordinate superintending staff ,8,0
+    Workers below ground: Coal cutting etc machine men ,32,0
+    Workers below ground: Hewers & getters (by hand) ,350,0
+    Workers below ground: Conveying material to the shaft ,177,0
+    Workers below ground: Developing workings in rock ,45,0
+    Workers below ground: Repairing & maintaining roads ,61,0
+    Other workers below ground ,69,0
+    Workers above ground in coal mines ,41,2
+"2. In other mines, quarries, brine pits ",28,1
+    Underground workers in mines ,0,0
+"    Getters in open quarries, pits, etc ",15,0
+"IV. WORKERS IN CERAMICS, GLASS, CEMENT, ETC. ",609,107
+"1. Makers of bricks, pottery, etc ",36,1
+"    Brick, etc, moulders, etc ",10,1
+"    Potters, pottery makers and casters ",1,0
+    Pottery finishers and decorators ,2,0
+"    Kiln and oven men, setters and placers ",8,0
+2. Makers of glass and glass ware ,415,91
+3. Makers of other mining products (not metal) ,158,15
+"V. COAL GAS, ETC. MAKERS, WORKERS IN CHEMICALS ",2180,288
+"1. Workers in coal, gas and coke ",133,0
+2. Workers in chemical and allied trades ,2047,288
+"VI. WORKERS IN METAL MANUFACTURE, ENGINEERING ",33200,3801
+"1. Foremen, overlookers ",1385,111
+"    Fitting, Erecting ",340,2
+    Electrical work ,314,48
+2. Furnacemen (not annealing or foundry) ,84,1
+"3. Rolling and tube mill workers, wire drawers ",75,3
+    Rollers and their assistants ,16,1
+4. Foundry workers (excluding pattern makers) ,674,33
+    Iron or steel moulders and core makers ,246,3
+    Non-ferrous moulders and core makers ,115,10
+    Other ferrous foundry workers ,244,14
+"5. Smiths, forgemen ",642,6
+    Blacksmiths ,615,0
+"6. Annealers, hardeners, temperers, picklers ",47,5
+"7. Sheet metal workers, metal spinners, etc. ",1472,52
+"8. Platers, riveters, shipwrights ",2062,24
+    Platers ,822,0
+    Platers' labourers ,463,0
+"    Riveters, caulkers ",115,23
+    Shipwrights ,607,1
+9. Metal machinists ,2124,294
+    Press tool setters ,140,3
+    Turners ,604,16
+    Drillers (hand or machine) ,329,216
+"    Machine setters, setter-operators ",1047,59
+"10. Fitters, machine erectors ",11053,54
+"    Precision fitters, tool makers, etc. ",2499,7
+"    Machine erectors, maintenance engineers ",3782,18
+    Motor and motor cycle mechanics ,1823,4
+"    Fitters, fitter assemblers ",1071,14
+"    Machine erectors', fitters', etc. mates ",1870,4
+11. Metal finishers ,383,132
+"    Glazers, polishers, buffers and moppers ",170,72
+"12. Plumbers, pipe fitters, etc. ",2649,2
+    Plumbers (not chemical plumbers) ,1795,0
+    Plumbers' labourers ,280,0
+    Gas fitters ,142,2
+    Pipe fitters ,422,0
+13. Vehicle makers and repairers (n.e.s) ,264,0
+"14. Watch, clock, instrument makers (n.e.s.) ",740,167
+"    Scientific instrument makers, repairers ",518,132
+"    Watch, etc. makers and repairers ",194,19
+"15. Workers in precious metals, gem setters ",29,22
+"16. Electrical apparatus makers, etc. (n.e.s.) ",5967,601
+    Radio and radar mechanics ,267,8
+    Others in electrical communications ,1173,80
+    Electrical Fitters ,1162,19
+"    Electricians (house, ship, factory) ",2651,33
+    Linemen and cable jointers ,327,1
+"17. Inspectors, viewers, testers ",973,671
+    Electrical work ,406,293
+18. Other skilled workers ,2577,1623
+"    Oxy-acetylene or electric welders, etc. ",967,87
+"    Constructional engineers, erectors ",662,0
+"    Press workers and stampers, drawers ",241,1028
+VII. TEXTILE WORKERS ,848,1313
+    Foremen ,59,47
+"1. Openers, sorters, blenders, carders, etc. ",22,49
+"    Carders, combers, drawers, etc. ",3,14
+"2. Spinners, doublers ",56,55
+"    Spinners, piecers ",39,50
+"    Doublers, twisters, silk throwsters ",4,3
+"3. Winders, warpers, sizers, drawers-in ",49,116
+"    Winders, reelers ",45,107
+"    Beamers, warpers ",0,1
+4. Weavers ,22,25
+    Weavers (not carpets) ,16,23
+5. Knitters ,397,496
+"6. Bleachers, dyers, finishers ",91,450
+"    Lookers, examiners, burlers, menders ",9,311
+    Dye house workers ,36,10
+7. Other skilled workers ,211,122
+"    Grinders, jobbers, tacklers, etc. ",35,2
+"VIII. LEATHER WORKERS, FUR DRESSERS ",1117,376
+"1. Leather tanners and dressers, fur dressers ",250,56
+2. Boot and Shoe makers ,763,113
+    Makers and repairers (not factory) ,617,22
+"    Clickers, pattern cutters ",3,7
+    Closers ,2,7
+    Other boot and shoe makers ,130,72
+3. Makers of leather or substitute goods ,104,207
+IX. MAKERS OF TEXTILE GOODS AND ARTICLES OF DRESS ,2137,8067
+1. Garment workers ,1076,5546
+"    Foremen, overlookers ",28,91
+    Cutters ,265,104
+    Tailors ,511,1032
+    Dressmakers and light clothing makers ,9,867
+    Machinists ,48,2948
+    Pressers ,191,202
+"2. Hat and cap makers, milliners (makers) ",3,155
+"3. Upholsterers, etc., bedding makers ",800,558
+"    Upholsterers, coach trimmers, etc. ",675,258
+4. Other makers ,258,1808
+"X. MAKERS OF FOODS, DRINKS AND TOBACCO ",3443,4905
+1. Makers of foods ,2609,2302
+"    Foremen, overlookers ",290,140
+"    Bakers, dough mixers, etc. ",1160,940
+2. Makers of alcoholic drinks ,196,229
+3. Makers of non-alcoholic drinks ,14,20
+"4. Makers of tabacco, cigars, cigarettes ",624,2354
+"XI. WORKERS WOOD, CANE AND CORK ",7035,288
+"    Foremen, overlookers ",348,6
+    Cabinet makers ,681,5
+"    Carpenters, joiners ",3814,6
+    Coach and cart builders: body build ,381,0
+"    Coopers, hoop makers and benders ",297,8
+    Packing case makers ,253,44
+    Pattern makers (wood or undefined) ,112,1
+"    Sawyers, wood cuttting machinists ",861,142
+"XII. MAKERS OF, WORKERS IN, PAPER; PRINTERS ",2588,2566
+"1. Makers of paper, paperboard ",38,73
+"2. Workers, in paper and paperboard ",335,1176
+"    Pressers, stampers, cutters ",159,101
+    Paperboard box makers (n.e.s.) ,49,532
+"    Machine makers, layers-on ",67,408
+"3. Printers, bookbinders ",2215,1317
+"    Foremen, overlookers ",76,30
+    Compositors (hand or machine) ,573,7
+"    Stereotypers, electrotypers ",80,0
+    Printing reproduction workers ,174,17
+    Printing machine room workers ,779,541
+    Bookbinders ,147,554
+XIII. MAKERS OF PRODUCTS (N.E.S.) ,3125,2389
+1. Workers in rubber ,2197,1661
+"    Mixers, spreaders, moulders ",518,43
+"2. Workers in plastics moulding, manipulating ",41,15
+3. Makers of musical instruments ,192,2
+    Piano tuners ,62,0
+4. Makers of other products ,695,711
+    Dental mechanics ,242,5
+XIV. WORKERS IN BUILDING AND CONTRACTING ,16809,39
+"    Foremen, gangers ",657,0
+    Clerks of works ,102,0
+    Builders' labourers ,2544,6
+    Bricklayers ,1750,4
+    Bricklayers' labourers ,552,1
+    Plasterers ,791,0
+    Plasterers labourers ,257,0
+    Glaziers ,235,1
+    Slaters and tilers ,292,0
+"    Masons, stone cutters ",291,0
+    Masons' labourers ,37,0
+    Platelayers ,507,1
+"    Paviors, street masons and asphalters ",330,0
+    Other skilled workers ,1152,1
+XV. PAINTERS AND DECORATORS ,5400,236
+"    Foremen, overlookers ",165,2
+"    Aerographers, paint sprayers ",294,179
+    French polishers ,531,6
+"XVI. ADMINISTRATORS, DIRECTORS, MANAGERS (N.E.S.) ",4325,471
+    Civil Service higher officers ,24,12
+    Civil Service executive officers ,465,111
+    Local Authority officers ,247,32
+"    Secretaries of companies, etc. ",217,74
+    Heads or managers of office departments ,863,89
+1. Managers in industrial undertakings ,2509,153
+"    Mining, ceramics, glass, cement, etc. ",68,3
+    Chemical and allied trades ,188,9
+    Engineering and allied trades ,746,28
+    Textiles and leather goods ,230,24
+    Building and contracting ,550,13
+"XVII. PERSONS EMPLOYED IN TRANSPORT, ETC. ",50563,2079
+1. Railway transport workers ,5527,86
+    Railway officials ,240,1
+    Locomotive engine drivers; motormen ,696,0
+    Locomotive engine firemen ,685,0
+    Locomotive running shed workers ,296,10
+    Guards ,359,0
+    Signalmen ,239,0
+"    Shunters, pointsmen, level crossing men ",664,2
+    Porters (including lampmen) ,2019,19
+2. Road transport workers ,15817,159
+    Passenger transport managers ,77,1
+    Haulage contractors and managers ,302,16
+    Inspectors and foremen (not horse) ,425,2
+"    Horse drivers, foremen, grooms ",1100,8
+    Drivers of trams and trolleybuses ,589,0
+    Drivers of buses and coaches ,1450,0
+    Drivers of other passenger vehicles ,770,50
+    Drivers of goods vehicles ,7466,68
+"    Lorry drivers' mates, van guards, etc. ",1500,4
+    Bus and tram conductors ,1851,5
+    Garage proprietors and managers ,130,4
+3. Water transport workers ,23301,100
+"    Ship-owners, brokers, agents; dock, canal officials ",558,2
+    Wharfingers and stevedores ,637,0
+    Navigating officers and pilots ,669,0
+    Other seagoing workers ,8130,97
+"    Bargemen, boatmen, tugmen ",454,1
+    Dock labourers ,11873,0
+4. Air transport workers ,82,1
+"5. Other workers in communications, etc. ",5836,1733
+"    Postmen, post office sorters ",1532,7
+"    Radio, etc. operators (n.e.s.) ",132,117
+    Telephone operators ,355,1252
+    Messengers ,1368,102
+    Lift attendants ,306,57
+    Porters (n.e.s.) ,1749,35
+"XVIII. COMMERCIAL, FINANCE, ETC. (EXC. CLERICAL) ",18648,15527
+1. Commercial occupations ,16702,15369
+"    Owners, etc. of wholesale businesses ",1136,89
+"    Brokers, agents, factors (n.e.s.) ",261,51
+    Buyers (not manufacturers') ,153,122
+    Sales managers (manufacturers') ,189,5
+    Advertising agents and managers ,95,8
+"    Commercial travellers, canvassers ",1774,197
+"1.. Owners, etc. of retail businesses ",5699,3108
+"    Owners, etc. of retail businesses: Grocery, provisions ",986,241
+"    Owners, etc. of retail businesses: Greengrocery ",365,310
+"    Owners, etc. of retail businesses: Meat ",655,54
+"    Owners, etc. of retail businesses: Fish, poultry ",156,63
+"    Owners, etc. of retail businesses: Other food goods ",251,296
+"    Owners, etc. of retail businesses: Chemists' wares, photographic goods ",104,26
+"    Owners, etc. of retail businesses: Confectionary, tobacco, newspapers ",603,518
+"    Owners, etc. of retail businesses: General and mixed businesses ",409,492
+"1.. Salesmen, shop assistants:- ",4742,11270
+"    Salesmen, shop assistants: Grocery, provisions ",991,2131
+"    Salesmen, shop assistants: Greengrocery ",203,840
+"    Salesmen, shop assistants: Meat ",964,195
+"    Salesmen, shop assistants: Fish, poultry ",137,187
+"    Salesmen, shop assistants: Other food goods ",122,981
+"    Salesmen, shop assistants: Chemists' wares, photographic goods ",111,463
+"    Salesmen, shop assistants: Confectionary, tobacco, newspapers ",97,862
+"    Salesmen, shop assistants: In variety chain stores ",11,556
+"    Salesmen, shop assistants: In other general and mixed businesses ",184,774
+"    Roundsmen, van salesmen ",1364,34
+"    Coal carmen, coal hawkers ",311,0
+    Costermongers and other hawkers ,376,85
+2. Persons employed in finance and insurance ,1946,158
+"    Bankers, bank managers, inspectors ",89,0
+"    Insurance managers, underwriters ",300,3
+    Insurance agents and canvassers ,1136,126
+"    Auctioneers, estate agents, valuers ",229,10
+XIX. PROFESSIONAL AND TECHNICAL (EXC. CLERICAL) ,8663,8881
+    Religious professions ,565,385
+    Clergymen (Church of England) ,128,0
+    Legal professions ,188,12
+    Medical professions ,800,163
+"    Physicians, surgeons, etc. ",629,150
+    Dental practitioners ,147,8
+    Veterinary surgeons and practitioners ,24,5
+    Nurses and midwives ,370,3991
+"    Trained nurses, midwives ",250,2027
+    Assistant nurses ,62,329
+    Student nurses ,58,1374
+    Nursery nurses ,0,261
+    Medical auxiliary professions ,543,369
+    Pharmacists ,185,45
+"    Physiotherapists, masseurs ",23,77
+    Teaching professions ,1613,2958
+    Teachers of music ,40,93
+"    Engineering, etc. professions ",2196,154
+"    Civil, structural engineers ",159,2
+    Mechanical engineers ,209,0
+    Electrical engineers ,170,5
+    Surveyors ,305,5
+"    Architects, town planners ",137,5
+"    Industrial designers, draughtsmen ",1122,137
+    Scientific professions ,1143,366
+"    Chemists, metallugists ",324,29
+"    Laboratory assistants, technicians ",700,308
+    Qualified accountants ,391,5
+"    Authors, journalists, publicists ",113,23
+    Librarians (not booksellers) ,63,146
+    Social welfare workers ,186,251
+"    Painters, sculptors, engravers ",172,239
+XX. PERSONS EMPLOYED IN DEFENCE SERVICES ,7097,145
+1. Armed forces ,2352,68
+2. Civilian defence services ,4745,77
+"    Police superintendants, etc. ",115,2
+"    Police, other ranks ",1755,33
+    Fire brigade officers and men ,757,3
+    Watchmen ,1632,18
+XXI. PERSONS ENGAGED IN ENTERTAINMENTS AND SPORT ,1190,318
+"    Actors, variety artistes, entertainers ",85,87
+    Musicians ,202,34
+    Cinematograph operators ,310,9
+    Bookmakers ,120,88
+XXII. PERSONS ENGAGED IN PERSONAL SERVICE ,7906,26523
+    Proprietors and managers of restaurants ,550,662
+    Lodging and boarding house keepers ,60,231
+    Proprietors and managers of hotels ,70,46
+"    Publicans, beersellers, innkeepers ",836,302
+"    Barmen, barmaids ",467,1286
+"    Waiters, waitresses, still room hands ",333,1830
+    Restaurant counter hands ,39,660
+    Hall and hotel porters; doorkeepers ,349,10
+    Stewards and matrons in institutions ,29,246
+"    Hospital or ward orderlies, attendants ",564,456
+"    Barbers, hairdressers, manicurists ",592,621
+    Photographers (not printing trades) ,212,96
+"    Caretakers, office keepers ",662,239
+"    Charwomen, office cleaners ",191,7474
+"    Laundry workers, dry cleaners ",378,2088
+    Window cleaners ,916,6
+1. Domestic servants (indoor):- ,924,8982
+    Cooks ,612,1382
+    Kitchen hands ,247,3710
+"    Chambermaids, house, etc., maids ",1,647
+"XXIII. CLERKS, TYPISTS, ETC. ",16515,29998
+    Clerks (n.e.s.) ,12881,16675
+"    Shorthand typists, secretaries ",115,6170
+    Typists ,14,2177
+    Other office machine operators ,53,1414
+    Costing and accounting clerks ,3452,3562
+"XXIV. WAREHOUSEMEN, STOREKEEPERS, PACKERS, ETC. ",8117,7181
+    Warehousemen ,1809,58
+    Storekeepers ,2249,181
+    Warehouse and storekeepers' assistants ,2464,488
+"XXV. STATIONARY ENGINE DRIVERS, STOKERS, ETC. ",4243,24
+1. Stationary engine drivers:- ,585,1
+    Underground in mines ,7,0
+    Crane drivers ,1057,5
+    Drivers of civil engineering plant ,226,0
+    Slingers and riggers ,650,0
+    Boiler firemen and stokers ,1068,5
+    Oilers and greasers ,255,8
+XXVI. WORKERS IN UNSKILLED OCCUPATIONS (N.E.S.) ,25819,10311
+    Assemblers (n.e.s.) ,271,1491
+1. Machine minders:- ,1002,2422
+    Engineering and allied trades ,758,1365
+"    Labourers, other unskilled workers ",24546,6398
+XXVII. OTHER AND UNDEFINED WORKERS ,2804,902
+"1. Workers in distribution of gas, water, etc. ",468,1
+2. Other workers ,2336,901
+XXVIII. RETIRED AND NOT GAINFULLY OCCUPIED ,28693,191785
+    Students in educational institutions ,4133,3624
+    Retired from gainful occupation ,19078,3922
+    No gainful occupation stated ,5194,184180
